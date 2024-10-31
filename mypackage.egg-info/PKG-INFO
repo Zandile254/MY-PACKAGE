@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: mypackage
+Version: 0.1
+Summary: EDSA example python package
+Home-page: https://github.com/Zandile254/<package-name>
+Author: Lucy Anita
+Author-email: lucywamboi80@gmail.com
+License: MIT
+Requires-Dist: numpy
